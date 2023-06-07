@@ -1,0 +1,29 @@
+{
+	"name": "bun-gothic-theme",
+	"displayName": "bun_gothic",
+	"description": "First gothic color theme for vscode.",
+	"publisher": "ArtemBunichev",
+	"license": "MIT",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [ "gothic" ],
+	"contributes": {
+		"themes": [
+			{
+				"label": "bun_gothic",
+				"uiTheme": "vs",
+				"path": "./themes/bun_gothic-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/spleekz/vscode-bun_gothic-theme"
+	},
+	"icon": "icon.png"
+}
