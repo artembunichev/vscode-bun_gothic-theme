@@ -24,10 +24,12 @@
 		"tab.activeForeground": "#000000",
 		"tab.activeBorder": "#000000",
 
+		"quickInput.foreground": "#000000",
 		"quickInput.background": "#f7f7f7",
 		"quickInputList.focusBackground": "#c7c7c75d",
 		"quickInputList.focusForeground": "#000000",
 		"quickInputList.focusIconForeground": "#000000",
+		"quickInputTitle.background": "#f7f7f7",
 		"pickerGroup.foreground": "#000000",
 
 		"scrollbar.shadow": "#00000000",
