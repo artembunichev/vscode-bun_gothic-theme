@@ -17,6 +17,8 @@
 		"titleBar.inactiveForeground": "#000000",
 
 		"tab.border": "#000000",
+		"tab.activeBackground": "#f7f7f7",
+		"tab.activeBorderTop": "#000000",
 		"tab.inactiveBackground": "#f2f3f5",
 		"tab.inactiveForeground": "#000000",
 		"tab.activeForeground": "#000000",
