@@ -13,6 +13,8 @@
 		"titleBar.border": "#000000",
 		"titleBar.activeBackground": "#f2f3f5",
 		"titleBar.activeForeground": "#000000",
+		"titleBar.inactiveBackground": "#f2f3f5",
+		"titleBar.inactiveForeground": "#000000",
 
 		"tab.border": "#000000",
 		"tab.inactiveBackground": "#f2f3f5",
