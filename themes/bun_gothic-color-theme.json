@@ -94,6 +94,16 @@
 
 		"panel.background": "#f2f3f5",
 		"panel.border": "#000000",
+		"panel.dropBorder": "#000000",
+		"panelTitle.activeBorder": "#000000",
+		"panelTitle.activeForeground": "#000000",
+		"panelTitle.inactiveForeground": "#000000",
+		"panelSection.border": "#000000",
+		"panelSection.dropBackground": "#c7c7c75d",
+		"panelSectionHeader.background": "#f2f3f5",
+		"panelSectionHeader.foreground": "#000000",
+		"panelSectionHeader.border": "#000000",
+		"panelInput.border": "#000000",
 
 		"statusBar.background": "#f2f3f5",
 		"statusBar.debuggingBackground": "#000000",
