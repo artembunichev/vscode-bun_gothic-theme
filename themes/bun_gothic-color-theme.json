@@ -48,9 +48,16 @@
 		"activityBarBadge.background": "#000000",
 		"activityBarBadge.foreground": "#f7f7f7",
 
+		"menu.background": "#f7f7f7",
 		"menu.foreground": "#000000",
 		"menu.border": "#000000",
 		"menu.selectionBackground": "#c7c7c75d",
+		"menu.selectionForeground": "#000000",
+		"menu.selectionBorder": "#000000",
+		"menu.separatorBackground": "#000000",
+		"menubar.selectionBackground": "#c7c7c75d",
+		"menubar.selectionForeground": "#000000",
+		"menubar.selectionBorder": "#000000",
 
 		"sideBar.background": "#f2f3f5",
 		"sideBar.foreground": "#000000",
