@@ -198,6 +198,7 @@
 		"editorCursor.foreground": "#000000",
 
 		"editor.lineHighlightBackground": "#f7f7f7",
+		"editor.lineHighlightBorder": "#00000000",
 
 		"editorLineNumber.foreground": "#000000",
 		"editorLineNumber.activeForeground": "#000000",
