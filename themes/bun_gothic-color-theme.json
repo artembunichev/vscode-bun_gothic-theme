@@ -172,6 +172,9 @@
 		"settings.dropdownBorder": "#000000",
 		"settings.dropdownListBorder": "#000000",
 
+		"widget.border": "#000000",
+		"widget.shadow": "#000000",
+
 		"textLink.foreground": "#000000",
 		"textLink.activeForeground": "#000000",
 
@@ -252,7 +255,6 @@
 		"editorBracketPairGuide.activeBackground5": "#0000001f",
 		"editorBracketPairGuide.activeBackground6": "#0000001f",
 
-		"widget.border": "#000000",
 		"editorWidget.background": "#f7f7f7",
 		"editorWidget.border": "#000000",
 		"editorSuggestWidget.border": "#000000",
