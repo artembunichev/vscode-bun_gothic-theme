@@ -194,6 +194,7 @@
 		"editorGroupHeader.noTabsBackground": "#f7f7f7",
 		"editorGroupHeader.tabsBorder": "#000000",
 
+		"editorCursor.background": "#000000",
 		"editorCursor.foreground": "#000000",
 
 		"editor.lineHighlightBackground": "#f7f7f7",
