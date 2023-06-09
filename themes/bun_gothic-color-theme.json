@@ -406,6 +406,8 @@
 		"extensionIcon.preReleaseForeground": "#000000",
 		"extensionIcon.sponsorForeground": "#000000",
 
+		"editor.linkedEditingBackground": "#c7c7c75d",
+
 	},
 	"tokenColors": [
 
