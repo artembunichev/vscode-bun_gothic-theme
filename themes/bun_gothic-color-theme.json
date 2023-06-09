@@ -274,9 +274,14 @@
 		"editorHoverWidget.statusBarBackground": "#c7c7c75d",
 		"editorHoverWidget.highlightForeground": "#000000",
 
+		"editorHint.foreground": "#000000",
 		"editorHint.border": "#000000",
 		"editorInlayHint.background": "#c7c7c737",
 		"editorInlayHint.foreground": "#000000",
+		"editorInlayHint.parameterBackground": "#c7c7c737",
+		"editorInlayHint.parameterForeground": "#000000",
+		"editorInlayHint.typeBackground": "#c7c7c737",
+		"editorInlayHint.typeForeground": "#000000",
 
 		"editorGutter.modifiedBackground": "#0000006d",
 		"editorGutter.addedBackground": "#000000",
