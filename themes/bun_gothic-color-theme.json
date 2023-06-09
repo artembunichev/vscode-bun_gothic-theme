@@ -396,7 +396,12 @@
 		"terminal.ansiMagenta":"#000000",
 		"terminal.ansiRed":"#000000",
 		"terminal.ansiWhite":"#000000",
-		"terminal.ansiYellow":"#000000"
+		"terminal.ansiYellow":"#000000",
+
+		"extensionIcon.starForeground": "#000000",
+		"extensionIcon.verifiedForeground": "#000000",
+		"extensionIcon.preReleaseForeground": "#000000",
+		"extensionIcon.sponsorForeground": "#000000",
 
 	},
 	"tokenColors": [
