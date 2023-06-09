@@ -292,6 +292,9 @@
 		"editorGutter.commentRangeForeground": "#000000",
 		"editorGutter.commentUnresolvedGlyphForeground": "#000000",
 
+		"editorOverviewRuler.background": "#f7f7f7",
+		"editorOverviewRuler.border": "#000000",
+		"editorOverviewRuler.addedForeground": "#000000",
 		"editorOverviewRuler.modifiedForeground": "#0000006d",
 		"editorOverviewRuler.deletedForeground": "#a90000",
 		"editorOverviewRuler.findMatchForeground": "#000000",
