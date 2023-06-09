@@ -202,6 +202,7 @@
 
 		"editorLineNumber.foreground": "#000000",
 		"editorLineNumber.activeForeground": "#000000",
+		"editorLineNumber.dimmedForeground": "#000000",
 
 		"editor.findMatchBackground": "#00000000",
 		"editor.findMatchBorder": "#000000",
