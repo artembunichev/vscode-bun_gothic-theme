@@ -147,8 +147,21 @@
 		"inputValidation.infoForeground": "#000000",
 		"inputValidation.infoBorder": "#c7c7c7",
 
-		"button.border": "#000000",
 		"button.background": "#000000",
+		"button.foreground": "#f7f7f7",
+		"button.border": "#000000",
+		"button.separator": "#c7c7c7",
+		"button.hoverBackground": "#000000",
+		"button.secondaryBackground": "#000000",
+		"button.secondaryForeground": "#f7f7f7",
+		"button.secondaryHoverBackground": "#000000",
+		"extensionButton.background": "#000000",
+		"extensionButton.foreground": "#f7f7f7",
+		"extensionButton.separator": "#c7c7c7",
+		"extensionButton.hoverBackground": "#000000",
+		"extensionButton.prominentBackground": "#000000",
+		"extensionButton.prominentForeground": "#f7f7f7",
+		"extensionButton.prominentHoverBackground": "#000000",
 
 		"dropdown.border": "#000000",
 
