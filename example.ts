@@ -13,7 +13,6 @@ function fn( param: { value: any } ) {
 	console.log( param.value )
 }
 
-
 var interpolatedString = `random: ${ Math.random() }`
 
 

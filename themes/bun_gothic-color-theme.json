@@ -238,6 +238,7 @@
 		"editorBracketHighlight.foreground4": "#000000",
 		"editorBracketHighlight.foreground5": "#000000",
 		"editorBracketHighlight.foreground6": "#000000",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#000000",
 		"editorBracketPairGuide.background1": "#0000001f",
 		"editorBracketPairGuide.background2": "#0000001f",
 		"editorBracketPairGuide.background3": "#0000001f",
