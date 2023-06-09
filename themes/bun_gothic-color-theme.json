@@ -219,6 +219,8 @@
 		"editor.wordHighlightBorder": "#000000",
 		"editor.wordHighlightStrongBackground": "#0000000f",
 		"editor.wordHighlightStrongBorder": "#000000",
+		"editor.wordHighlightTextBackground": "#00000000",
+		"editor.wordHighlightTextBorder": "#000000",
 
 		"editor.rangeHighlightBackground": "#00000000",
 		"editor.rangeHighlightBorder": "#000000",
