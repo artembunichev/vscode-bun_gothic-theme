@@ -163,7 +163,14 @@
 		"extensionButton.prominentForeground": "#f7f7f7",
 		"extensionButton.prominentHoverBackground": "#000000",
 
+		"dropdown.background": "#f7f7f7",
+		"dropdown.foreground": "#000000",
 		"dropdown.border": "#000000",
+		"dropdown.listBackground": "#f7f7f7",
+		"settings.dropdownBackground": "#f7f7f7",
+		"settings.dropdownForeground": "#000000",
+		"settings.dropdownBorder": "#000000",
+		"settings.dropdownListBorder": "#000000",
 
 		"textLink.foreground": "#000000",
 		"textLink.activeForeground": "#000000",
