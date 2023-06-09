@@ -227,8 +227,10 @@
 		"editor.findRangeHighlightBackground": "#00000000",
 		"editor.findRangeHighlightBorder": "#000000",
 
-		"editor.snippetTabstopHighlightBackground": "#ffffff00",
-		"editor.snippetFinalTabstopHighlightBorder": "#ffffff00",
+		"editor.snippetTabstopHighlightBackground": "#00000000",
+		"editor.snippetTabstopHighlightBorder": "#00000000",
+		"editor.snippetFinalTabstopHighlightBackground": "#00000000",
+		"editor.snippetFinalTabstopHighlightBorder": "#00000000",
 
 		"editorBracketHighlight.foreground1": "#000000",
 		"editorBracketHighlight.foreground2": "#000000",
