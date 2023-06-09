@@ -176,7 +176,7 @@
 		"settings.dropdownListBorder": "#000000",
 
 		"widget.border": "#000000",
-		"widget.shadow": "#000000",
+		"widget.shadow": "#00000000",
 
 		"badge.background": "#000000",
 		"badge.foreground": "#f7f7f7",
