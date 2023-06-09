@@ -212,6 +212,10 @@
 		"notificationCenterHeader.background": "#f7f7f7",
 		"notificationCenterHeader.foreground": "#000000",
 
+		"problemsInfoIcon.foreground": "#000000",
+		"problemsWarningIcon.foreground": "#000000",
+		"problemsErrorIcon.foreground": "#a90000",
+
 		"editorGroup.border": "#000000",
 		"editorGroup.dropBackground": "#c7c7c75d",
 		"editorGroup.emptyBackground": "#f7f7f7",
