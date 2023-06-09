@@ -175,6 +175,13 @@
 		"widget.border": "#000000",
 		"widget.shadow": "#000000",
 
+		"badge.background": "#000000",
+		"badge.foreground": "#f7f7f7",
+		"profileBadge.background": "#000000",
+		"profileBadge.foreground": "#f7f7f7",
+		"extensionBadge.remoteBackground": "#000000",
+		"extensionBadge.remoteForeground": "#f7f7f7",
+
 		"textLink.foreground": "#000000",
 		"textLink.activeForeground": "#000000",
 
