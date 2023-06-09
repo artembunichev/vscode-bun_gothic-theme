@@ -210,8 +210,10 @@
 		"editor.findMatchHighlightBorder": "#000000",
 
 		"editor.selectionBackground": "#0000002d",
+		"editor.selectionForeground": "#000000",
 		"editor.selectionHighlightBackground": "#c7c7c75d",
 		"editor.selectionHighlightBorder": "#000000",
+		"editor.inactiveSelectionBackground": "#0000002d",
 
 		"editor.wordHighlightBackground": "#00000000",
 		"editor.wordHighlightBorder": "#000000",
