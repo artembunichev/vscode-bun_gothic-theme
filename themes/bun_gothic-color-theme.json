@@ -283,9 +283,14 @@
 		"editorInlayHint.typeBackground": "#c7c7c737",
 		"editorInlayHint.typeForeground": "#000000",
 
+		"editorGutter.background": "#f7f7f7",
 		"editorGutter.modifiedBackground": "#0000006d",
 		"editorGutter.addedBackground": "#000000",
 		"editorGutter.deletedBackground": "#a90000",
+		"editorGutter.foldingControlForeground": "#000000",
+		"editorGutter.commentGlyphForeground": "#000000",
+		"editorGutter.commentRangeForeground": "#000000",
+		"editorGutter.commentUnresolvedGlyphForeground": "#000000",
 
 		"editorOverviewRuler.modifiedForeground": "#0000006d",
 		"editorOverviewRuler.deletedForeground": "#a90000",
