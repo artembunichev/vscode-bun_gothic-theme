@@ -230,6 +230,9 @@
 
 		"disabledForeground": "#c7c7c7dc",
 
+		"textBlockQuote.background": "#f7f7f7",
+		"textBlockQuote.border": "#000000",
+
 		"descriptionForeground": "#000000",
 
 		"textLink.foreground": "#000000",
