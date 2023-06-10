@@ -171,6 +171,12 @@
 		"extensionButton.prominentForeground": "#f7f7f7",
 		"extensionButton.prominentHoverBackground": "#000000",
 
+		"checkbox.background": "#f7f7f7",
+		"checkbox.foreground": "#000000",
+		"checkbox.border": "#000000",
+		"checkbox.selectBackground": "#f7f7f7",
+		"checkbox.selectBorder": "#000000",
+
 		"dropdown.background": "#f7f7f7",
 		"dropdown.foreground": "#000000",
 		"dropdown.border": "#000000",
