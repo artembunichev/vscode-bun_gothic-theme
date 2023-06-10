@@ -477,6 +477,13 @@
 		"debugExceptionWidget.background": "#a900001f",
 		"debugExceptionWidget.border": "#000000",
 
+		"debugTokenExpression.number": "#000000",
+		"debugTokenExpression.string": "#000000",
+		"debugTokenExpression.boolean": "#000000",
+		"debugTokenExpression.name": "#000000",
+		"debugTokenExpression.value": "#000000",
+		"debugTokenExpression.error": "#a90000",
+
 	},
 
 	"tokenColors": [
