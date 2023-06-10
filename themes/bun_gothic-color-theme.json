@@ -16,6 +16,15 @@
 		"titleBar.inactiveBackground": "#f2f3f5",
 		"titleBar.inactiveForeground": "#000000",
 
+		"commandCenter.background": "#f7f7f7",
+		"commandCenter.foreground": "#000000",
+		"commandCenter.border": "#000000",
+		"commandCenter.activeBackground": "#f7f7f7",
+		"commandCenter.activeForeground": "#000000",
+		"commandCenter.activeBorder": "#000000",
+		"commandCenter.inactiveForeground": "#000000",
+		"commandCenter.inactiveBorder": "#000000",
+
 		"tab.border": "#000000",
 		"tab.activeBackground": "#f7f7f7",
 		"tab.activeBorderTop": "#000000",
