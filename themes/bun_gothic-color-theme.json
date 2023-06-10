@@ -4,6 +4,8 @@
 
 	"colors": {
 
+		"foreground": "#000000",
+
 		"editor.background": "#f7f7f7",
 		"editor.foreground": "#000000",
 
@@ -204,6 +206,8 @@
 		"profileBadge.foreground": "#f7f7f7",
 		"extensionBadge.remoteBackground": "#000000",
 		"extensionBadge.remoteForeground": "#f7f7f7",
+
+		"disabledForeground": "#c7c7c7dc",
 
 		"descriptionForeground": "#000000",
 
