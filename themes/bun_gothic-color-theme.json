@@ -319,6 +319,8 @@
 		"editorBracketPairGuide.activeBackground5": "#0000001f",
 		"editorBracketPairGuide.activeBackground6": "#0000001f",
 
+		"editorGhostText.foreground": "#0000",
+
 		"editorWidget.background": "#f7f7f7",
 		"editorWidget.foreground": "#000000",
 		"editorWidget.border": "#000000",
