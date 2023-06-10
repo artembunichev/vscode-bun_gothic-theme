@@ -468,6 +468,13 @@
 
 		"editor.linkedEditingBackground": "#c7c7c75d",
 
+		"diffEditor.diagonalFill": "#000000",
+		"diffEditor.insertedLineBackground": "#0000001a",
+		"diffEditor.insertedTextBackground": "#0000001a",
+		"diffEditor.removedLineBackground": "#a900001a",
+		"diffEditor.removedTextBackground": "#a900001a",
+		"diffEditor.unchangedRegionBackground": "#0000",
+
 		"commentsView.resolvedIcon": "#000000",
 		"commentsView.unresolvedIcon": "#000000",
 
