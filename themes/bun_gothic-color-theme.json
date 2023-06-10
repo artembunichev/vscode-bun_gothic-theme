@@ -481,6 +481,13 @@
 		"diffEditor.removedTextBackground": "#a900001a",
 		"diffEditor.unchangedRegionBackground": "#0000",
 
+		"editorCommentsWidget.rangeBackground": "#0000001a",
+		"editorCommentsWidget.rangeBorder": "#000000",
+		"editorCommentsWidget.rangeActiveBackground": "#0000001a",
+		"editorCommentsWidget.rangeActiveBorder": "#000000",
+		"editorCommentsWidget.resolvedBorder": "#000000",
+		"editorCommentsWidget.unresolvedBorder": "#000000",
+
 		"commentsView.resolvedIcon": "#000000",
 		"commentsView.unresolvedIcon": "#000000",
 
