@@ -484,6 +484,8 @@
 		"debugTokenExpression.value": "#000000",
 		"debugTokenExpression.error": "#a90000",
 
+		"debugToolBar.background": "#f7f7f7",
+
 	},
 
 	"tokenColors": [
