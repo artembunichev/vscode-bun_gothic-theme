@@ -557,6 +557,20 @@
 
 		"debugToolBar.background": "#f7f7f7",
 
+		"testing.iconErrored": "#a90000",
+		"testing.iconFailed": "#a90000",
+		"testing.iconPassed": "#000000",
+		"testing.iconQueued": "#c7c7c7",
+		"testing.iconSkipped": "#c7c7c75d",
+		"testing.iconUnset": "#c7c7c75d",
+		"testing.runAction": "#000000",
+		"testing.peekBorder": "#a90000",
+		"testing.peekHeaderBackground": "#a900001a",
+		"testing.message.error.decorationForeground": "#a90000",
+		"testing.message.error.lineBackground": "#a900001a",
+		"testing.message.info.decorationForeground": "#c7c7c75d",
+		"testing.message.info.lineBackground": "#0000001a",
+
 	},
 
 	"tokenColors": [
