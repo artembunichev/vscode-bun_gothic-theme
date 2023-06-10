@@ -466,6 +466,9 @@
 
 		"editor.linkedEditingBackground": "#c7c7c75d",
 
+		"commentsView.resolvedIcon": "#000000",
+		"commentsView.unresolvedIcon": "#000000",
+
 	},
 	"tokenColors": [
 
