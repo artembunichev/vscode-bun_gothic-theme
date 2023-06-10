@@ -232,6 +232,12 @@
 		"editorGroupHeader.noTabsBackground": "#f7f7f7",
 		"editorGroupHeader.tabsBorder": "#000000",
 
+		"breadcrumb.background": "#f7f7f7",
+		"breadcrumb.foreground": "#000000",
+		"breadcrumb.focusForeground": "#000000",
+		"breadcrumb.activeSelectionForeground": "#000000",
+		"breadcrumbPicker.background": "#f7f7f7",
+
 		"editorCursor.background": "#000000",
 		"editorCursor.foreground": "#000000",
 
