@@ -474,6 +474,9 @@
 		"debugConsole.warningForeground": "#c7c7c7",
 		"debugConsole.errorForeground": "#a90000",
 
+		"debugExceptionWidget.background": "#a900001f",
+		"debugExceptionWidget.border": "#000000",
+
 	},
 
 	"tokenColors": [
