@@ -474,6 +474,12 @@
 		"debugConsole.warningForeground": "#c7c7c7",
 		"debugConsole.errorForeground": "#a90000",
 
+		"debugView.exceptionLabelBackground": "#a90000",
+		"debugView.exceptionLabelForeground": "#f7f7f7",
+		"debugView.stateLabelBackground": "#f7f7f7",
+		"debugView.stateLabelForeground": "#000000",
+		"debugView.valueChangedHighlight": "#c7c7c7",
+
 		"debugExceptionWidget.background": "#a900001f",
 		"debugExceptionWidget.border": "#000000",
 
