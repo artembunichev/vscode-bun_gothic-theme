@@ -17,6 +17,8 @@
 		"window.activeBorder": "#000000",
 		"window.inactiveBorder": "#000000",
 
+		"selection.background": "#0000002d",
+
 		"titleBar.border": "#000000",
 		"titleBar.activeBackground": "#f2f3f5",
 		"titleBar.activeForeground": "#000000",
