@@ -480,12 +480,19 @@
 
 		"editor.linkedEditingBackground": "#c7c7c75d",
 
+		"diffEditor.border": "#000000",
 		"diffEditor.diagonalFill": "#000000",
+		"diffEditor.insertedTextBorder": "#0000",
+		"diffEditor.removedTextBorder": "#0000",
 		"diffEditor.insertedLineBackground": "#0000001a",
 		"diffEditor.insertedTextBackground": "#0000001a",
 		"diffEditor.removedLineBackground": "#a900001a",
 		"diffEditor.removedTextBackground": "#a900001a",
 		"diffEditor.unchangedRegionBackground": "#0000",
+		"diffEditorGutter.insertedLineBackground": "#0000001a",
+		"diffEditorGutter.removedLineBackground": "#a900001a",
+		"diffEditorOverview.insertedForeground": "#000000",
+		"diffEditorOverview.removedForeground": "#a90000",
 
 		"editorCommentsWidget.rangeBackground": "#0000001a",
 		"editorCommentsWidget.rangeBorder": "#000000",
