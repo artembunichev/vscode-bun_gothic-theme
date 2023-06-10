@@ -212,6 +212,10 @@
 		"notificationCenterHeader.background": "#f7f7f7",
 		"notificationCenterHeader.foreground": "#000000",
 
+		"banner.background": "#c7c7c75d",
+		"banner.foreground": "#000000",
+		"banner.iconForeground": "#000000",
+
 		"problemsInfoIcon.foreground": "#000000",
 		"problemsWarningIcon.foreground": "#000000",
 		"problemsErrorIcon.foreground": "#a90000",
