@@ -217,6 +217,9 @@
 		"textLink.activeForeground": "#000000",
 
 		"errorForeground": "#a90000",
+		"editorInfo.background": "#0000",
+		"editorInfo.foreground": "#000000",
+		"editorInfo.border": "#0000",
 		"editorError.background": "#a900001f",
 		"editorError.foreground": "#a90000",
 		"editorError.border": "#0000",
