@@ -6,6 +6,8 @@
 
 		"foreground": "#000000",
 
+		"icon.foreground": "#000000",
+
 		"editor.background": "#f7f7f7",
 		"editor.foreground": "#000000",
 
