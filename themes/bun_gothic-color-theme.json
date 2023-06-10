@@ -337,7 +337,9 @@
 
 		"editorLink.activeForeground": "#000000",
 
+		"editorGhostText.background": "#0000",
 		"editorGhostText.foreground": "#0000",
+		"editorGhostText.border": "#0000",
 
 		"editorWidget.background": "#f7f7f7",
 		"editorWidget.foreground": "#000000",
