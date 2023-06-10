@@ -432,6 +432,15 @@
 		"terminal.ansiWhite":"#000000",
 		"terminal.ansiYellow":"#000000",
 
+		"charts.blue": "#000000",
+		"charts.foreground": "#000000",
+		"charts.green": "#000000",
+		"charts.lines": "#000000",
+		"charts.orange": "#000000",
+		"charts.purple": "#000000",
+		"charts.red": "#000000",
+		"charts.yellow": "#000000",
+
 		"extensionIcon.starForeground": "#000000",
 		"extensionIcon.verifiedForeground": "#000000",
 		"extensionIcon.preReleaseForeground": "#000000",
