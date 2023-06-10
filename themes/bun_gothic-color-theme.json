@@ -441,6 +441,9 @@
 		"charts.red": "#000000",
 		"charts.yellow": "#000000",
 
+		"chat.requestBackground": "#f7f7f7",
+		"chat.requestBorder": "#000000",
+
 		"extensionIcon.starForeground": "#000000",
 		"extensionIcon.verifiedForeground": "#000000",
 		"extensionIcon.preReleaseForeground": "#000000",
