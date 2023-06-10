@@ -14,6 +14,9 @@
 		"contrastBorder": "#000000",
 		"focusBorder": "#000000",
 
+		"window.activeBorder": "#000000",
+		"window.inactiveBorder": "#000000",
+
 		"titleBar.border": "#000000",
 		"titleBar.activeBackground": "#f2f3f5",
 		"titleBar.activeForeground": "#000000",
