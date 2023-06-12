@@ -140,6 +140,11 @@
 		"listFilterWidget.outline": "#000000",
 		"listFilterWidget.noMatchesOutline": "#000000",
 
+		"tree.indentGuidesStroke": "#0000006d",
+		"tree.inactiveIndentGuidesStroke": "#0000006d",
+		"tree.tableColumnsBorder": "#c7c7c75d",
+		"tree.tableOddRowsBackground": "#c7c7c75d",
+
 		"panel.background": "#f2f3f5",
 		"panel.border": "#000000",
 		"panel.dropBorder": "#000000",
