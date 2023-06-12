@@ -237,17 +237,6 @@
 
 		"textPreformat.foreground": "#000000",
 
-		"errorForeground": "#a90000",
-		"editorInfo.background": "#0000",
-		"editorInfo.foreground": "#000000",
-		"editorInfo.border": "#0000",
-		"editorWarning.foreground": "#000000",
-		"editorWarning.background": "#c7c7c73f",
-		"editorWarning.border": "#000000",
-		"editorError.background": "#a900001f",
-		"editorError.foreground": "#a90000",
-		"editorError.border": "#0000",
-
 		"notifications.background": "#f7f7f7",
 		"notifications.foreground": "#000000",
 		"notifications.border": "#000000",
@@ -326,6 +315,20 @@
 		"editorLineNumber.dimmedForeground": "#000000",
 
 		"editorWhitespace.foreground": "#c7c7c7",
+
+		"errorForeground": "#a90000",
+		"editorInfo.background": "#0000",
+		"editorInfo.foreground": "#000000",
+		"editorInfo.border": "#0000",
+		"editorWarning.foreground": "#000000",
+		"editorWarning.background": "#c7c7c73f",
+		"editorWarning.border": "#000000",
+		"editorError.background": "#a900001f",
+		"editorError.foreground": "#a90000",
+		"editorError.border": "#0000",
+
+		"editorUnicodeHighlight.background": "#c7c7c75d",
+		"editorUnicodeHighlight.border": "#c7c7c7",
 
 		"editor.findMatchBackground": "#0000",
 		"editor.findMatchBorder": "#000000",
