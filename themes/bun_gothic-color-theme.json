@@ -858,6 +858,31 @@
 			}
 		},
 
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#000000"
+			}
+		}
+
 	],
 
 }
