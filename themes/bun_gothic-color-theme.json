@@ -271,6 +271,9 @@
 
 		"progressBar.background": "#000000",
 
+		"walkThrough.embeddedEditorBackground": "#f7f7f7",
+		"walkthrough.stepTitle.foreground": "#000000",
+
 		"problemsInfoIcon.foreground": "#000000",
 		"problemsWarningIcon.foreground": "#000000",
 		"problemsErrorIcon.foreground": "#a90000",
