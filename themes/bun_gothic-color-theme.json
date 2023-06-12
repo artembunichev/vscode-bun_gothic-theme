@@ -360,6 +360,9 @@
 		"editor.snippetFinalTabstopHighlightBackground": "#0000",
 		"editor.snippetFinalTabstopHighlightBorder": "#0000",
 
+		"editorIndentGuide.activeBackground": "#0000006d",
+		"editorIndentGuide.background": "#0000006d",
+
 		"editor.foldBackground": "#c7c7c730",
 
 		"editorBracketHighlight.foreground1": "#000000",
