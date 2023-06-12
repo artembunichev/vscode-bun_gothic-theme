@@ -169,6 +169,8 @@
 		"statusBar.noFolderBackground": "#c7c7c75d",
 		"statusBar.noFolderForeground": "#000000",
 		"statusBar.noFolderBorder": "#000000",
+		"statusBar.offlineBackground": "#f2f3f5",
+		"statusBar.offlineForeground": "#000000",
 
 		"input.background": "#f7f7f7",
 		"input.foreground": "#000000",
