@@ -613,6 +613,9 @@
 
 		"editor.linkedEditingBackground": "#c7c7c75d",
 
+		"sideBySideEditor.horizontalBorder": "#000000",
+		"sideBySideEditor.verticalBorder": "#000000",
+
 		"diffEditor.border": "#000000",
 		"diffEditor.diagonalFill": "#000000",
 		"diffEditor.insertedTextBorder": "#0000",
