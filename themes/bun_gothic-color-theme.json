@@ -638,6 +638,7 @@
 		"debugTokenExpression.error": "#a90000",
 
 		"debugToolBar.background": "#f7f7f7",
+		"debugToolBar.border": "#000000",
 
 		"editor.stackFrameHighlightBackground": "#c7c7c7",
 		"editor.focusedStackFrameHighlightBackground": "#c7c7c75d",
