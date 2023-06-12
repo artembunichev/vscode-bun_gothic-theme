@@ -635,6 +635,9 @@
 
 		"debugToolBar.background": "#f7f7f7",
 
+		"editor.stackFrameHighlightBackground": "#c7c7c7",
+		"editor.focusedStackFrameHighlightBackground": "#c7c7c75d",
+
 		"testing.iconErrored": "#a90000",
 		"testing.iconFailed": "#a90000",
 		"testing.iconPassed": "#000000",
