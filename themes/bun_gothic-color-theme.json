@@ -145,6 +145,8 @@
 		"tree.tableColumnsBorder": "#c7c7c75d",
 		"tree.tableOddRowsBackground": "#c7c7c75d",
 
+		"search.resultsInfoForeground": "#000000",
+
 		"panel.background": "#f2f3f5",
 		"panel.border": "#000000",
 		"panel.dropBorder": "#000000",
@@ -561,6 +563,9 @@
 		"toolbar.hoverBackground": "#c7c7c75d",
 		"toolbar.hoverOutline": "#000000",
 		"toolbar.activeBackground": "#c7c7c7",
+
+		"searchEditor.findMatchBackground": "#0000",
+		"searchEditor.findMatchBorder": "#000000",
 
 		"terminal.background": "#f2f3f5",
 		"terminal.foreground": "#000000",
