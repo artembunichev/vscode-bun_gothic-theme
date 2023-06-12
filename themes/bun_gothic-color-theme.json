@@ -12,6 +12,7 @@
 		"editor.foreground": "#000000",
 
 		"contrastBorder": "#000000",
+		"contrastActiveBorder": "#0000",
 		"focusBorder": "#000000",
 
 		"window.activeBorder": "#000000",
