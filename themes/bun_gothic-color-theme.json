@@ -572,6 +572,7 @@
 
 		"searchEditor.findMatchBackground": "#0000",
 		"searchEditor.findMatchBorder": "#000000",
+		"searchEditor.textInputBorder": "#000000",
 
 		"terminal.background": "#f2f3f5",
 		"terminal.foreground": "#000000",
