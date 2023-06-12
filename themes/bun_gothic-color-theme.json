@@ -334,6 +334,8 @@
 		"editor.snippetFinalTabstopHighlightBackground": "#0000",
 		"editor.snippetFinalTabstopHighlightBorder": "#0000",
 
+		"editor.foldBackground": "#c7c7c730",
+
 		"editorBracketHighlight.foreground1": "#000000",
 		"editorBracketHighlight.foreground2": "#000000",
 		"editorBracketHighlight.foreground3": "#000000",
