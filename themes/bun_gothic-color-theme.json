@@ -250,6 +250,8 @@
 
 		"disabledForeground": "#c7c7c7dc",
 
+		"textCodeBlock.background": "#c7c7c75d",
+		"textSeparator.foreground": "#000000",
 		"textBlockQuote.background": "#f7f7f7",
 		"textBlockQuote.border": "#000000",
 
