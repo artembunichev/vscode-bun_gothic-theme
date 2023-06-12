@@ -414,6 +414,9 @@
 		"editorInlayHint.typeBackground": "#c7c7c737",
 		"editorInlayHint.typeForeground": "#000000",
 
+		"editorUnnecessaryCode.border": "#0000",
+		"editorUnnecessaryCode.opacity": "#000000",
+
 		"editorGutter.background": "#f7f7f7",
 		"editorGutter.modifiedBackground": "#0000006d",
 		"editorGutter.addedBackground": "#000000",
