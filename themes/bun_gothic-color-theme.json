@@ -526,6 +526,14 @@
 
 		"editorCodeLens.foreground": "#c7c7c7",
 
+		"editorMarkerNavigation.background": "#f7f7f7",
+		"editorMarkerNavigationInfo.background": "#f7f7f7",
+		"editorMarkerNavigationInfo.headerBackground": "#000000",
+		"editorMarkerNavigationWarning.background": "#c7c7c75d",
+		"editorMarkerNavigationWarning.headerBackground": "#c7c7c7",
+		"editorMarkerNavigationError.background": "#a90000",
+		"editorMarkerNavigationError.headerBackground": "#a900001a",
+
 		"terminal.background": "#f2f3f5",
 		"terminal.foreground": "#000000",
 		"terminal.border": "#000000",
