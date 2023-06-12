@@ -506,6 +506,8 @@
 		"editorStickyScroll.background": "#f7f7f7",
 		"editorStickyScrollHover.background": "#f7f7f7",
 
+		"editorRuler.foreground": "#000000",
+
 		"gitDecoration.addedResourceForeground": "#000000",
 		"gitDecoration.conflictingResourceForeground": "#000000",
 		"gitDecoration.deletedResourceForeground": "#000000",
