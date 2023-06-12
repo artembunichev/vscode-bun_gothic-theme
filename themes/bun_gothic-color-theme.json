@@ -246,6 +246,8 @@
 		"extensionBadge.remoteBackground": "#000000",
 		"extensionBadge.remoteForeground": "#f7f7f7",
 
+		"ports.iconRunningProcessForeground": "#c7c7c75d",
+
 		"disabledForeground": "#c7c7c7dc",
 
 		"textBlockQuote.background": "#f7f7f7",
