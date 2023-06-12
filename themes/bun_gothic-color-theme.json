@@ -634,6 +634,8 @@
 
 		"editorPane.background": "#f7f7f7",
 
+		"scm.providerBorder": "#000000",
+
 		"diffEditor.border": "#000000",
 		"diffEditor.diagonalFill": "#000000",
 		"diffEditor.insertedTextBorder": "#0000",
