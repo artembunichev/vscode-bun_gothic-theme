@@ -404,6 +404,9 @@
 		"editorBracketPairGuide.activeBackground5": "#0000001f",
 		"editorBracketPairGuide.activeBackground6": "#0000001f",
 
+		"editorBracketMatch.background": "#0000",
+		"editorBracketMatch.border": "#000000",
+
 		"editorLink.activeForeground": "#000000",
 
 		"editorGhostText.background": "#0000",
