@@ -378,6 +378,8 @@
 		"editor.findRangeHighlightBackground": "#0000",
 		"editor.findRangeHighlightBorder": "#000000",
 
+		"editor.hoverHighlightBackground": "#0000000f",
+
 		"editor.snippetTabstopHighlightBackground": "#0000",
 		"editor.snippetTabstopHighlightBorder": "#0000",
 		"editor.snippetFinalTabstopHighlightBackground": "#0000",
