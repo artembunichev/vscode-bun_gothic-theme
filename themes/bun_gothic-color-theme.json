@@ -473,6 +473,8 @@
 		"editorOverviewRuler.infoForeground": "#0000",
 		"editorOverviewRuler.warningForeground": "#0000",
 		"editorOverviewRuler.errorForeground": "#a90000",
+		"editorOverviewRuler.commentForeground": "#0000",
+		"editorOverviewRuler.commentUnresolvedForeground": "#0000",
 
 		"gitDecoration.addedResourceForeground": "#000000",
 		"gitDecoration.conflictingResourceForeground": "#000000",
