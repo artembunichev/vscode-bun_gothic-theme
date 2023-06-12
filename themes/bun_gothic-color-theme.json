@@ -262,6 +262,8 @@
 		"banner.foreground": "#000000",
 		"banner.iconForeground": "#000000",
 
+		"progressBar.background": "#000000",
+
 		"problemsInfoIcon.foreground": "#000000",
 		"problemsWarningIcon.foreground": "#000000",
 		"problemsErrorIcon.foreground": "#a90000",
