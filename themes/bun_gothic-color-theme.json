@@ -191,6 +191,8 @@
 		"statusBar.offlineBackground": "#ffffff",
 		"statusBar.offlineForeground": "#000000",
 
+		"sash.hoverBorder": "#000000",
+
 		"input.background": "#ffffff",
 		"input.foreground": "#000000",
 		"input.border": "#000000",
