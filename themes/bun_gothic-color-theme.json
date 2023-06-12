@@ -71,6 +71,7 @@
 		"quickInputList.focusIconForeground": "#000000",
 		"quickInputTitle.background": "#f7f7f7",
 		"pickerGroup.foreground": "#000000",
+		"pickerGroup.border": "#000000",
 
 		"keybindingLabel.background": "#f7f7f7",
 		"keybindingLabel.foreground": "#000000",
