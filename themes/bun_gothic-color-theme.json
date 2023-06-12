@@ -476,6 +476,9 @@
 		"editorOverviewRuler.commentForeground": "#0000",
 		"editorOverviewRuler.commentUnresolvedForeground": "#0000",
 
+		"editorStickyScroll.background": "#f7f7f7",
+		"editorStickyScrollHover.background": "#f7f7f7",
+
 		"gitDecoration.addedResourceForeground": "#000000",
 		"gitDecoration.conflictingResourceForeground": "#000000",
 		"gitDecoration.deletedResourceForeground": "#000000",
