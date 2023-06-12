@@ -26,6 +26,10 @@
 		"titleBar.inactiveBackground": "#f2f3f5",
 		"titleBar.inactiveForeground": "#000000",
 
+		"toolbar.hoverBackground": "#c7c7c75d",
+		"toolbar.hoverOutline": "#000000",
+		"toolbar.activeBackground": "#c7c7c7",
+
 		"commandCenter.background": "#f7f7f7",
 		"commandCenter.foreground": "#000000",
 		"commandCenter.border": "#000000",
@@ -566,10 +570,6 @@
 		"editorMarkerNavigationError.background": "#a90000",
 		"editorMarkerNavigationError.headerBackground": "#a900001a",
 
-		"toolbar.hoverBackground": "#c7c7c75d",
-		"toolbar.hoverOutline": "#000000",
-		"toolbar.activeBackground": "#c7c7c7",
-
 		"searchEditor.findMatchBackground": "#0000",
 		"searchEditor.findMatchBorder": "#000000",
 
@@ -631,6 +631,8 @@
 
 		"sideBySideEditor.horizontalBorder": "#000000",
 		"sideBySideEditor.verticalBorder": "#000000",
+
+		"editorPane.background": "#f7f7f7",
 
 		"diffEditor.border": "#000000",
 		"diffEditor.diagonalFill": "#000000",
