@@ -643,6 +643,18 @@
 		"editor.stackFrameHighlightBackground": "#c7c7c7",
 		"editor.focusedStackFrameHighlightBackground": "#c7c7c75d",
 
+		"interactive.activeCodeBorder": "#000000",
+		"interactive.inactiveCodeBorder": "#000000",
+		"interactiveEditor.border": "#000000",
+		"interactiveEditor.shadow": "#0000",
+		"interactiveEditor.regionHighlight": "#c7c7c75d",
+		"interactiveEditorInput.background": "#f7f7f7",
+		"interactiveEditorInput.border": "#000000",
+		"interactiveEditorInput.focusBorder": "#000000",
+		"interactiveEditorInput.placeholderForeground": "#c7c7c7",
+		"interactiveEditorDiff.inserted": "#0000001a",
+		"interactiveEditorDiff.removed": "#a900001a",
+
 		"testing.iconErrored": "#a90000",
 		"testing.iconFailed": "#a90000",
 		"testing.iconPassed": "#000000",
