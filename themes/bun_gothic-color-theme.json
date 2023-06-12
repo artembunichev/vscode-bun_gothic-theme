@@ -68,6 +68,13 @@
 		"quickInputTitle.background": "#f7f7f7",
 		"pickerGroup.foreground": "#000000",
 
+		"keybindingLabel.background": "#f7f7f7",
+		"keybindingLabel.foreground": "#000000",
+		"keybindingLabel.border": "#000000",
+		"keybindingLabel.bottomBorder": "#000000",
+		"keybindingTable.headerBackground": "#c7c7c75d",
+		"keybindingTable.rowsBackground": "#0000",
+
 		"scrollbar.shadow": "#0000",
 		"scrollbarSlider.background": "#c7c7c7a0",
 		"scrollbarSlider.hoverBackground": "#c7c7c7",
