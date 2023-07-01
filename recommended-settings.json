@@ -1,0 +1,19 @@
+{
+
+	"window.menuBarVisibility": "compact",
+
+	"editor.cursorBlinking": "solid",
+	"editor.glyphMargin": false,
+
+	"explorer.compactFolders": false,
+
+	"breadcrumbs.enabled": false,
+
+	"workbench.iconTheme": null,
+	"workbench.editor.decorations.colors": false,
+	"workbench.layoutControl.enabled": false,
+	"workbench.statusBar.visible": false,
+
+	"terminal.integrated.minimumContrastRatio": 21
+
+}
